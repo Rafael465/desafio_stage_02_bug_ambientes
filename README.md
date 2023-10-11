@@ -11,5 +11,5 @@ Posicionamento e alinhamento de elementos na tela;
 Aplicação de fontes customizadas;
 Espaçamentos.
 
-Abaixo está a imagem de como se encontrava o projeto.
-![Projeto com erros](images/image.png)
+Abaixo está a imagem de como se encontrava o projeto e como ficou.
+![Projeto com erros](images/image.png) ![Projeto corrigido](image.png)
