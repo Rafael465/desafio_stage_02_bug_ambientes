@@ -12,4 +12,4 @@ Técnicas aplicadas:
 - Espaçamentos.
 
 Abaixo está a imagem de como se encontrava o projeto e como ficou.
-![Projeto com erros](images/image.png) ![Projeto corrigido](image.png)
+![Projeto com erros](images/image.png) ![Projeto corrigido](images/image2.png)
